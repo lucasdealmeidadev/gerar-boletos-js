@@ -54,6 +54,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucasdealmeidadev/gerar-boletos.git"
+    "url": "git+https://github.com/lucasdealmeidadev/gerar-boletos-js.git"
   }
 }
