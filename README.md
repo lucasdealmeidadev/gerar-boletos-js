@@ -15,10 +15,10 @@ Geração de boletos para bancos:
 ### Install
 
 ```javascript
-npm i gerar-boletos
+npm i gerar-boletos-js
 ```
 ```javascript
-yarn add gerar-boletos
+yarn add gerar-boletos-js
 ```
 ### Exemplos de uso
 
