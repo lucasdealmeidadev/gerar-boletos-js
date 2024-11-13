@@ -1,6 +1,6 @@
 # Gerar Boletos
 
-Biblioteca em Node.js para geração de boletos utilizando PDFKit baseada e modificada a partir do [gerar-boleto](https://npmjs.org/package/gerar-boleto).
+Biblioteca em Node.js para geração de boletos utilizando PDFKit baseada e modificada a partir do [gerar-boleto](https://npmjs.org/package/gerar-boletos-js).
 
 Geração de boletos para bancos:
 - Bradesco
